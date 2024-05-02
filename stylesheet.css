@@ -1,0 +1,41 @@
+
+.header {
+  background-color: lightpink;
+  padding: 50px;
+  text-align: left;
+  font-family: Helvetica, sans-serif;
+}
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: hotpink;
+}
+
+.navbar li {
+  float: left;
+}
+
+.navbar li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+  background-color: lightpink;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: lightgrey;
+  margin: 50px;
+}
+
+h2 {
+  background-color: lightpink;
+  padding-bottom: 10px;
+}
